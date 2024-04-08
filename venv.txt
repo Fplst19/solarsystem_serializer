@@ -1,0 +1,18 @@
+Venv erstellen
+py -m venv .venv
+
+venv aktivieren
+
+.venv\Scripts\activate
+
+tabulate installieren
+
+pip install tabulate
+
+yaml  installieren
+pip install pyyaml
+
+alle sachen speichern:
+git add .
+git commit -m "new all"
+git push
